@@ -1,0 +1,10 @@
+[{
+    "relation": ["delegate_permission/common.handle_all_urls"],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "com.stardev.starion",
+      "sha256_cert_fingerprints":
+      ["9E:5D:47:E2:E2:4F:F5:57:01:DA:CD:17:C0:BD:DA:24:90:51:2C:3B:F6:47:0D:15:06:19:42:6E:80:C8:EE:F9"]
+    }
+  }]
+  
